@@ -4,7 +4,7 @@ This example shows streaming response from OpenAI completions with FastAPI on AW
 
 Credit to [aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter)
 
-![Architecture](imgs/serverless-storyteller-architecture.png)
+![Architecture](imgs/architecture.png)
 
 ## How does it work?
 
