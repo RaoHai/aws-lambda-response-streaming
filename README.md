@@ -1,4 +1,4 @@
-# Serverless Completions Streaming
+# Building streaming functions with Python on AWS Lambda
 
 This example shows streaming response from OpenAI completions with FastAPI on AWS Lambda.
 
